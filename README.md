@@ -12,8 +12,7 @@ It showcases my journey in **front-end development, PWA, and basic authenticatio
 
 ### 🔹 Task 2 – Portfolio with Certifications Section  
 - Extended portfolio by adding a **Certifications section**  
-- Displayed my **Coursera & AI for Techs certificates**  
-- Each certificate is clickable for viewing details  
+- Displayed my **Coursera & AI for Techies certificates**  
 
 ### 🔹 Task 3 – Progressive Web App (PWA)  
 - Implemented **manifest.json** and **service worker**  
@@ -29,10 +28,8 @@ It showcases my journey in **front-end development, PWA, and basic authenticatio
 - Built a **login and register page** using HTML, CSS, and JavaScript  
 - User-friendly forms with redirection:
   - If user clicks **"Already have an account" → Login Page**  
-  - If user clicks **"Register" → Registration Page**  
-
----
-
+  - If user clicks **"Register" → Registration Page**
+  - 
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
@@ -40,8 +37,6 @@ It showcases my journey in **front-end development, PWA, and basic authenticatio
 - Git & GitHub  
 - Responsive Web Design  
 - Progressive Web Apps (PWA)  
-
----
 
 ## 📜 Certifications
 - **Prompt Engineering – Coursera**  
